@@ -3,7 +3,7 @@
 -------
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning **PHP, Python**
+- 🌱 I’m currently learning **NextJS, Python, Laravel**
 - 👨‍💻  Read more about my projects at https://davidcala.netlify.app/
 
 
